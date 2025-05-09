@@ -23,15 +23,16 @@ The dataset was sourced from **Kaggle**, a reputable platform for open datasets 
 
 ## 🛠️ Tools and Methodology
 
-**Microsoft Excel:** Used for preliminary data cleaning, exploration, analysis, and dashboard creation
+**Microsoft Excel:** Used for preliminary data cleaning, exploration, analysis, and dashboard creation  
 
 ---
 
-## Dashboard
+## 📊 Dashboard
 
-## StellaCare Multi-Year HealthCare Report Dashboard
+### Stellacare Multi-Year Healthcare Report Dashboard  
 ![Dashboard 7](https://github.com/user-attachments/assets/92bf35f0-e11e-4a8d-b7fc-739cc22580c4)
 
+---
 
 ## 🔍 Observations & Insights
 
@@ -39,7 +40,7 @@ The dataset was sourced from **Kaggle**, a reputable platform for open datasets 
   Top patients averaged around **$52,000** in billing, with **Todd Carrillo** reaching the highest at **$52,764** — indicating consistent high-cost care.
 
 - **Condition Frequency vs. Cost:**  
-  **Arthritis (9308 cases)** was the most frequent condition, but **Obesity ($25,806 average)** was the most expensive. Frequency does not necessarily align with treatment cost.
+  **Arthritis (9,308 cases)** was the most frequent condition, but **Obesity ($25,806 average)** was the most expensive. Frequency does not necessarily align with treatment cost.
 
 - **Cancer Treatment:**  
   Despite being the **least costly on average ($25,162)**, **cancer** remained among the top conditions in frequency — possibly reflecting high efficiency or optimized oncology protocols.
@@ -60,18 +61,19 @@ The dataset was sourced from **Kaggle**, a reputable platform for open datasets 
 
 ## ✅ Recommendations
 
-- Implement cost-efficiency programs targeted at **obesity-related treatments**, which account for the highest average billing.  
-- Prioritize **early diagnosis and management** of arthritis and diabetes to reduce long-term costs.  
-- Re-evaluate **diagnostic procedures or lab technologies** due to high inconclusive result rates.  
-- Renegotiate **insurance terms** using provider performance data and market saturation as leverage.  
-- Maintain **standardized billing** while reviewing performance metrics across facilities.  
-- Apply **oncology best practices** to other high-cost conditions due to its cost-effectiveness.  
-- Integrate **blood type and demographic intelligence** into personalized care models.
+- Implement **cost-efficiency programs** for obesity-related treatments, which have the highest average billing.  
+- Prioritize **early diagnosis and chronic care management** for arthritis and diabetes.  
+- Review and improve **diagnostic accuracy** due to high inconclusive result rates.  
+- Leverage **insurance provider balance** to renegotiate better terms.  
+- Maintain **standardized billing** while incorporating performance-based assessments.  
+- Adapt **oncology cost-efficiency strategies** for other high-expense conditions.  
+- Use **blood type and demographic insights** in personalized medicine planning.
 
 ---
 
 ## 🔗 Link to Dataset
-Explore the full report here: 📂 [Stellacare Healthcare Dataset](https://github.com/AnietieSenyom/STELLACARE-MULTI-YEAR-HEALTHCARE-REPORT/blob/main/Task%2020A%20-%20David%20John.xlsx)
+
+Explore the full dataset here: 📂 [Stellacare Healthcare Dataset](https://github.com/AnietieSenyom/STELLACARE-MULTI-YEAR-HEALTHCARE-REPORT/blob/main/Task%2020A%20-%20David%20John.xlsx)
 
 ---
 
